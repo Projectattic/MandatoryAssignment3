@@ -8,7 +8,7 @@ class CheckersTest {
 	BlackPlayer black = new BlackPlayer();
 	@Test
 	void test() {
-		fail("Not yet implemented");
+		System.out.println("hello");
 	}
 
 }
